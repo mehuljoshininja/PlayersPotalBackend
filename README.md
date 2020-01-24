@@ -15,7 +15,7 @@ You will also see any lint errors in the console.
 
 ### `API End Points`
 
-`User`
+## `User`
 
 
 
