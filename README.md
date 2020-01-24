@@ -13,14 +13,23 @@ You will also see any lint errors in the console.
 1. User
 2. Player
 
+
 ### `API End Points`
-
 #### `User`
-
 1. /register
 2. /login
 3. /home
 4. /uploads
 ###### `/home & /uploads routs for the Testing Purpose`
+
+#### `Player`
+1. /register 
+###### `/add-player` same /register at front end
+2. /viewplayers
+3. /edit-player
+4. /delete-player
+
+
+
 
 
