@@ -8,13 +8,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `API User`
+## `API User`
 
 1. User
 2. Player
 
 
-### `API End Points`
+## `API End Points`
 #### `User`
 1. /register
 2. /login
@@ -27,16 +27,15 @@ You will also see any lint errors in the console.
 2. /viewplayers
 3. /edit-player
 4. /delete-player
-###### `/add-player` same /register at front end
 
 
 ##  `Modules`
-###### 1. Login
-###### 2. Register
-###### 3. Register(add player) Player
-###### 4. View Player Details
-###### 5. Edit Player Details
-###### 6. Delere Player Details
+1. `Login`
+2. `Register` 
+3. `Register(add player) Player`
+4. `View Player Details`
+5. `Edit Player Details`
+6. `Delere Player Details`
 
 
 ## `Access/Permissions Occurding To Role`
