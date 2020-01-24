@@ -48,9 +48,8 @@ You will also see any lint errors in the console.
 
 ### `Implementation`
 1. Implementing `JWT` For Session Time Out And For User Tracking
-2. Image Uploading Using multer
-
-
+2. Image Uploading Using `multer`
+3. Use `mongodb` as Database
 
 
 
