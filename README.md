@@ -13,5 +13,9 @@ You will also see any lint errors in the console.
 1. User
 2. Player
 
+### `API End Points`
+
+`User`
+
 
 
