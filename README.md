@@ -15,7 +15,12 @@ You will also see any lint errors in the console.
 
 ### `API End Points`
 
-## `User`
+#### `User`
 
+1. /register
+2. /login
+3. /home
+4. /uploads
+###### `/home & /uploads routs for the Testing Purpose`
 
 
