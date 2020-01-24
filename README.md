@@ -48,7 +48,7 @@ You will also see any lint errors in the console.
 
 
 #### `Implementation`
-1. Implementing `###`JWT For Session Time Out And For User Tracking
+1. Implementing `JWT` For Session Time Out And For User Tracking
 
 
 
