@@ -47,8 +47,9 @@ You will also see any lint errors in the console.
 1. User can access Only User Dashboard And View Profile
 
 
-#### `Implementation`
+### `Implementation`
 1. Implementing `JWT` For Session Time Out And For User Tracking
+2. Image Uploading Using multer
 
 
 
