@@ -24,10 +24,32 @@ You will also see any lint errors in the console.
 
 #### `Player`
 1. /register 
-###### `/add-player` same /register at front end
 2. /viewplayers
 3. /edit-player
 4. /delete-player
+###### `/add-player` same /register at front end
+
+
+##  `Modules`
+###### 1. Login
+###### 2. Register
+###### 3. Register(add player) Player
+###### 4. View Player Details
+###### 5. Edit Player Details
+###### 6. Delere Player Details
+
+
+## `Access/Permissions Occurding To Role`
+#### `Admin`
+1. Admin can access All The Routs 
+
+#### `User`
+1. User can access Only User Dashboard And View Profile
+
+
+#### `Implementation`
+1. Implementing `###`JWT For Session Time Out And For User Tracking
+
 
 
 
